@@ -17,3 +17,9 @@ D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.AssemblyReference.cache
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
+F:\GIT\線上資源\單元測試的藝術\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb

@@ -34,7 +34,8 @@ namespace Chapter1
             try
             {
                 SimpleParser p = new SimpleParser();
-                int result = p.ParseAndSum(string.Empty);
+                //int result = p.ParseAndSum(string.Empty);
+                int result = p.ParseAndSum("1");
                 if (result != 0)
                 {
 
@@ -72,7 +73,7 @@ Parse and sum should have returned 0 on an empty string");
             try
             {
                 SimpleParser p = new SimpleParser();
-                int result = p.ParseAndSum(string.Empty);
+                int result = p.ParseAndSum("1,");
                 if(result!=0)
                 {
             //Calling the helper method

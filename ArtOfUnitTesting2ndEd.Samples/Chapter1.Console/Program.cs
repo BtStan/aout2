@@ -11,12 +11,15 @@ namespace Chapter1.ConsoleApp
         {
             try
             {
-                SimpleParserTests.TestReturnsZeroWhenEmptyString();
+                //SimpleParserTests.TestReturnsZeroWhenEmptyString();
+                SimpleParserTests_WithTestUtil.TestReturnsZeroWhenEmptyString();
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
             }
+
+            Console.Read();
         }
 
     }

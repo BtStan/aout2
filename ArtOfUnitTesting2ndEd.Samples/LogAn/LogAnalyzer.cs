@@ -23,5 +23,17 @@ namespace LogAn
             return true;
         }
 
+        public bool IsValidLogFileName2_3(string fileName)
+        {
+            WasLastFileNameValid = false;
+
+            if (string.IsNullOrEmpty(fileName))
+            {
+                throw new ArgumentException("filename has to be provided");
+            }            
+
+            WasLastFileNameValid = true;
+            return true;
+        }
     }
 }
